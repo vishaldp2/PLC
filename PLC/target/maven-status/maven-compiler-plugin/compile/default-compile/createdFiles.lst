@@ -1,0 +1,4 @@
+plc\PLC.class
+Main.class
+plc\PLCMode.class
+assemblyline\AssemblyLineStartupAlgorithm.class
